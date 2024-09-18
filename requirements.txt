@@ -1,4 +1,5 @@
 nltk 
 spacy 
-sklearn 
+sklearn
+scikit-learn
 requests
