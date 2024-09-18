@@ -22,3 +22,8 @@ def chatbot():
             print("Chatbot: I'm here to assist you with general questions. Try asking me about the weather or saying hello!")
         else:
             print("Chatbot: Sorry, I didn't understand that. Can you please rephrase?")
+        
+        # return None
+
+
+chatbot()
