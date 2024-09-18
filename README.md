@@ -1,6 +1,7 @@
 # chatbot
  <!-- chat bot using python -->
-python3 chatbot/chatbot.py
+python -m spacy download en_core_web_sm
+python3 period-tracker-chatbot/period-tracker.py
 
 docker build -t chatbot-image .
 docker run -it chatbot-image

@@ -1,0 +1,40 @@
+{
+    "2024-09-10": {
+        "last_period": "2024-09-10",
+        "cycle_length": 25,
+        "period_length": 5,
+        "symptom_log": [],
+        "next_period": "2024-10-05",
+        "ovulation_start": "2024-09-19",
+        "ovulation_end": "2024-09-25"
+    },
+    "2024-10-05": {
+        "last_period": "2024-10-05",
+        "cycle_length": 25,
+        "period_length": 5,
+        "symptom_log": [],
+        "next_period": "2024-10-30",
+        "ovulation_start": "2024-10-14",
+        "ovulation_end": "2024-10-20"
+    },
+    "gee_2024-10-05": {
+        "name": "gee",
+        "last_period": "2024-10-05",
+        "cycle_length": 25,
+        "period_length": 4,
+        "symptom_log": [],
+        "next_period": "2024-10-30",
+        "ovulation_start": "2024-10-14",
+        "ovulation_end": "2024-10-20"
+    },
+    "gee_2024-11-01": {
+        "name": "gee",
+        "last_period": "2024-11-01",
+        "cycle_length": 25,
+        "period_length": 5,
+        "symptom_log": [],
+        "next_period": "2024-11-26",
+        "ovulation_start": "2024-11-10",
+        "ovulation_end": "2024-11-16"
+    }
+}

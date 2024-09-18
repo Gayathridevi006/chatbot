@@ -17,4 +17,4 @@ RUN python -m spacy download en_core_web_sm
 EXPOSE 8080
 
 # Run the chatbot script
-CMD ["python", "chatbot/chatbot.py"]
+CMD ["python", "period-tracker-chatbot/period-tracker.py"]
